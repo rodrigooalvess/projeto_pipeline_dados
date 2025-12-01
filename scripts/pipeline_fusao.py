@@ -1,4 +1,4 @@
-from etl_pipeline_dados import Dados
+from scripts.classe_Dados import Dados
 
 # aqui voce deve passar o caminho onde estao os dados da empresa que voce deseja fundir
 path_dados_empresa_A = "data_raw/dados_empresaA.json"
