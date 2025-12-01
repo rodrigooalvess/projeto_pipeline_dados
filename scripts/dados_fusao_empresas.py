@@ -1,8 +1,8 @@
 from etl_pipeline_dados import Dados
 
 # aqui voce deve passar o caminho onde estao os dados da empresa que voce deseja fundir
-path_dados_empresa_A = "../data_raw/dados_empresaA.json"
-path_dados_empresa_B = "../data_raw/dados_empresaB.csv"
+path_dados_empresa_A = "data_raw/dados_empresaA.json"
+path_dados_empresa_B = "data_raw/dados_empresaB.csv"
 
 # Extract
 
